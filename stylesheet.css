@@ -1,0 +1,20 @@
+div {
+	background-color: pink;
+	width: 500px;
+}
+h1 {
+	font-family: arial;
+	margin: 30px;
+	padding-top: 20px;
+}
+p {
+	font-family: arial;
+	margin: 30px;
+	text-align: justify;
+}
+img {
+	display: inline-block;
+	margin: 10px;
+	outline: 2px solid violet;
+	margin-left: 30px;
+}
